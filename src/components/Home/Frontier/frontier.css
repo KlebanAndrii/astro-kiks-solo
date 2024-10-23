@@ -1,0 +1,19 @@
+.frontier {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.frontier__inner {
+  padding-block: 116px;
+  color: #fff;
+  display: flex;
+  /* display: grid; */
+  justify-content: end;
+}
+
+.frontier__content {
+  max-width: 50%;
+  /* max-width: 650px;
+  width: 100%; */
+}

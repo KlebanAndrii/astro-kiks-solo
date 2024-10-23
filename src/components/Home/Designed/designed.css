@@ -1,0 +1,26 @@
+.designed {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.designed__inner {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  min-height: 550px;
+  max-height: 920px;
+  color: #fff;
+}
+
+.designed__title {
+  font-size: 180px;
+  line-height: 0.8;
+  margin-bottom: 20px;
+}
+
+.designed__text {
+  max-width: 360px;
+  margin-inline: auto;
+}

@@ -1,0 +1,27 @@
+
+
+.amazing {
+  padding-block: 140px;
+}
+
+.amazing__inner {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.amazing-intro {
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.amazing__text {
+  max-width: 330px;
+  margin-bottom: 30px;
+}
+
+.amazing__images {
+  display: flex;
+  gap: 30px;
+}
